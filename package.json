@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background Generator that creates a background gradient so you can customize your web pages.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfoundlyParker/Background-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfoundlyParker/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/ProfoundlyParker/Background-Generator#readme"
+}
