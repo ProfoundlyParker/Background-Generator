@@ -24,7 +24,7 @@ Live Site: https://profoundlyparker.github.io/Background-Generator/</h1>
 ## Features
 <li>Mobile-friendly</li><br>
 <img src='README-imgs/bg-mobile.gif'>
-<li>Custom favicon</li><br>
+<li>Custom site favicon</li><br>
 <img src='favicon.ico' height='200' width='200'>
  
 
