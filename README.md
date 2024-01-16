@@ -15,8 +15,8 @@ Live Site: https://profoundlyparker.github.io/Background-Generator/</h1>
 ![background-generator-random](README-imgs/bg-random_AdobeExpress.gif)
 
 ## Description
-<p>A project created using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, deployed on <b>GitHub Pages</b></p>
-<p><i>A huge thanks to Andrei Neagoie for creating <a href='https://zerotomastery.io/courses/coding-bootcamp/'>Zero to Mastery Complete Web Developer Course</a> and the entire Zero To Mastery platform to help encourage new developers like myself to pursue their passions!</i></p>
+<p>A project created using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, deployed on <strong>GitHub Pages</strong></p>
+<p><em>A huge thanks to Andrei Neagoie for creating <a href='https://zerotomastery.io/courses/coding-bootcamp/'>Zero to Mastery Complete Web Developer Course</a> and the entire Zero To Mastery platform to help encourage new developers like myself to pursue their passions!</em></p>
 <p>A simple background generator that displays the CSS line of code to copy your generated colors into your own project</p>
 
 ![background-generator-css](README-imgs/bg-css.png)
